@@ -23,8 +23,10 @@ Considered to be the world's biggest sports competition, the Olympics have alway
 
 ### Participation in the Olympics
 The first Olympic games were held in 1896, more than a 100 years ago. Since then participation of countries in these games has always been subject to the social and political situations worldwide. Let's look at how this has changed over the years. There are different plots for Winter and Summer Olympics and the selection can be made by using the dropdown box at the top left corner of the plot. 
+
 ![alt text][logo]
 [logo]: https://github.com/VNair88/Olympics_viz/tree/master/Plots/summer_participation.JPG  "Summer participation"
+
 A few highlights from the plot (these can be referenced by hovering the mouse pointer over individual bars):
 1896 - First Summer Olympics had 12 participating teams.
 1904 - Games were held at St. Louis. Logistics caused a lot of countries to stay away. Most participants were American. 
