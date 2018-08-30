@@ -39,57 +39,45 @@ A few highlights from the plot (these can be referenced by hovering the mouse po
 1980 - 66 countries boycotted the games to protest the Soviet invasion of Afghanistan <br>
 2008 - More than 200 teams participate. 
 
-![alt text][logo1]
+The notebook contains a similar timeline for the Winter Olympics. Some important years are highlighted in that plot as well. For e.g. 1940 & 1944, when the games were cancelled due to World War II or 1994, when the decision to hold Winter and Summer Olympics two years apart from each other was made. Just like the plot for Summer games, certain details can be visualized in the plot for Winter games by hovering on the individual bars.
 
-[logo1]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/winter_participation.JPG  "Winter participation"
-
-Some observations from the timeline:
-1924 - First Winter Olympic Games held with 19 participating teams.
-1940 & 1944 - Games cancelled due to World War II.
-1948 - Korea, Denmark etc. participate for the first time. Germany & Japan do not participate.
-1956 - USSR makes its debut.
-1994 - Decision made to hold Winter and Summer Olympics two years apart from each other. Winter games held just 2 years after the last games at 1992. 
-2014 - 89 teams participate.
 
 ### Performance in the Olympics
 
 Here I look at the top 10 performing countries in Summer and Winter games.  The idea is not to equate performance by medal tally alone but is also to look at average medals won per year. Just like the previous visualization, one can select either the Winter games or Summer games by using the drop down button.
 
-![alt text][logo2]
+![alt text][logo1]
 
-[logo2]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/summer_performers.JPG  "Summer performers"
+[logo1]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/summer_performers.JPG  "Summer performers"
 
 The United States is a clear winner when it comes to total medals won. Over all the Olympic events that it has been a part of, the US has accumulated over 2000 medals. The second entry on this list doesn’t have even half the number of medals that the US has. 
 However, this is just half the story. If you look at average medals won per year, the Soviets come out on top averaging more than 100 medals per year.
 
-![alt text][logo3]
+Similarly, if you look at the plot for Winter games in the notebook, you will notice that the list is dominated by Scandinavian countries with Norway on top. Again, the Soviets lead the list when it comes to average no of medals won.
 
-[logo3]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/winter_performers.JPG  "Winter performers"
-
-The list for Winter games is dominated by Scandinavian countries with Norway on top. Again, the Soviets lead the list when it comes to average no of medals won.
- The Soviet Union was a part of 9 Summer and 9 Winter games while it existed. These plots prove that they were a powerhouse in both formats of the Olympics.
+The Soviet Union was a part of 9 Summer and 9 Winter games. These plots prove that for as long as they existed, they were a powerhouse in both formats of the Olympics.
 
 ### Representation in the Olympics
 
-In either formats, female athletes only make up around 20% of Olympic teams. It would make more sense to look world wide and figure out countries who have the highest proportion of female athletes. 
+In either formats, female athletes only make up around 20% of Olympic teams. It would make more sense to look world wide and figure out which countries have the highest proportion of female athletes. 
 
-![alt text][logo5]
+![alt text][logo2]
 
-[logo5]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/representation2.JPG  "Representation2"
+[logo2]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/representation2.JPG  "Representation2"
 
 For Summer Olympics, it seems countries that have the highest proportion of female athletes are Bhutan, Belarus and North Korea. 
 
-![alt text][logo6]
+If you look at the plot for Winter Olympics in the notebook, you can see that the countries faring well are North Korea, China and Uzbekistan. 
 
-[logo6]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/representation3.JPG  "Representation3"
-
-If you look at the plot for Winter Olympics, it seems that the countries that do well are North Korea, China and Uzbekistan. 
-
-Again, these figures are slightly skewed either due to low participation or the small size of teams that these countries send. However, to be fair, I have only considered countries who have been a part of at least 5 Summer Olympics and 3 Winter Olympics. 
-Nevertheless, it is indeed surprising that a lot of countries that have very high social indicators do not fare well when it comes to gender parity. 
+Again, these figures are slightly skewed either due to low participation or the small size of teams that these countries send. However, to be fair, I have only considered countries who have been a part of at least 5 Summer and 3 Winter Olympics. 
+Nevertheless, it is indeed surprising that a lot of countries with very high social indicators do not fare well when it comes to gender parity in Olympic teams. 
 
 ### Average height and weight of Athletes by Sport in the Olympics 
 
 Here we look at some pysical attributes of Olympic athletes like height and weight. The average height and weight of athletes by Sport are calculated and are graphed on a scatter plot. Sporting events are categorized by Summer and Winter games. 
 
-As you can see in the notebook, the plot points towards the fact that athletes who play certain sports like Basketball, Volleyball, Bobsleighing and Ice Hockey tend to be bigger in size than the rest. On the other hand Gymnasts, Synchronized swimmers and Figure skaters tend to be shorter and lighter. Plus, athletes from Summer Olympics definitely have a longer range as far as height and weight are considered.
+![alt text][logo3]
+
+[logo3]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/avg_height_weight.JPG  "HeightWeight"
+
+As you can see in the plot, athletes who play certain sports like Basketball, Volleyball, Bobsleighing and Ice Hockey tend to be bigger in size than the rest. On the other hand Gymnasts, Synchronized swimmers and Figure skaters tend to be shorter and lighter. Plus, athletes from Summer Olympics definitely have a longer range as far as height and weight are considered.
