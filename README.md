@@ -17,9 +17,9 @@ pandas, numpy, matplotlib and plotly.
 ### Background
 Considered to be the world's biggest sports competition, the Olympics have always reflected social and political situations on a global scale. Held every 4 years, the Olympics consist of Summer and Winter games that occur 2 years apart. These seasonal events vary greatly, and the following analysis hopes to uncover similarities and differences between the two. The topics analyzed are: 
 1.	How participation in these events has changed over time. 
-2.	Best performing countries in Summer and Winter games. 
-3.	How do athletes who participate in Summer games differ physically from those who participate in Winter games. 
-4.	How does representation of female athletes across countries differ in Summer and Winter games. 
+2.	Best performing countries in Summer and Winter games.  
+3.	How does representation of female athletes across countries differ in Summer and Winter games. 
+4. How do athletes who participate in Summer games differ physically from those who participate in Winter games. 
 
 ### Participation in the Olympics
 The first Olympic games were held in 1896, more than a 100 years ago. Since then participation of countries in these games has always been subject to the social and political situations worldwide. Let's look at how this has changed over the years. There are different plots for Winter and Summer Olympics and the selection can be made by using the dropdown box at the top left corner of the plot. 
@@ -71,18 +71,25 @@ The list for Winter games is dominated by Scandinavian countries with Norway on 
 
 ### Representation in the Olympics
 
-![alt text][logo4]
-
-[logo4]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/representation1.JPG  "Representation1"
-
-By looking at the above plot, it is amply clear that in either formats, female athletes only make up around 20% of Olympic teams.
-It would make more sense to look world wide and figure out countries who have the highest proportion of female athletes. 
+In either formats, female athletes only make up around 20% of Olympic teams. It would make more sense to look world wide and figure out countries who have the highest proportion of female athletes. 
 
 ![alt text][logo5]
 
 [logo5]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/representation2.JPG  "Representation2"
 
 For Summer Olympics, it seems countries that have the highest proportion of female athletes are Bhutan, Belarus and North Korea. 
+
+![alt text][logo6]
+
+[logo6]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/representation3.JPG  "Representation3"
+
 If you look at the plot for Winter Olympics, it seems that the countries that do well are North Korea, China and Uzbekistan. 
+
 Again, these figures are slightly skewed either due to low participation or the small size of teams that these countries send. However, to be fair, I have only considered countries who have been a part of at least 5 Summer Olympics and 3 Winter Olympics. 
 Nevertheless, it is indeed surprising that a lot of countries that have very high social indicators do not fare well when it comes to gender parity. 
+
+### Average height and weight of Athletes by Sport in the Olympics 
+
+Here we look at some pysical attributes of Olympic athletes like height and weight. The average height and weight of athletes by Sport are calculated and are graphed on a scatter plot. Sporting events are categorized by Summer and Winter games. 
+
+As you can see in the notebook, the plot points towards the fact that athletes who play certain sports like Basketball, Volleyball, Bobsleighing and Ice Hockey tend to be bigger in size than the rest. On the other hand Gymnasts, Synchronized swimmers and Figure skaters tend to be shorter and lighter. Plus, athletes from Summer Olympics definitely have a longer range as far as height and weight are considered.
