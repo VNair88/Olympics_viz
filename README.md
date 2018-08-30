@@ -2,7 +2,7 @@
 ### Analysis of the Olympics by comparing and contrasting Summer and Winter games.
 
 To view the interactive plots you can check the python notebook at - 
-[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Olympics_viz/blob/9e7c0ad499105df8c4fec5b4552c01048894d480/py%20Notebook/final.ipynb)
+[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Olympics_viz/blob/efd879acbc78f53de18a41839ed7d38297495c8c/py%20Notebook/final.ipynb)
 
 ## Summary
 As most of us know the Olympics consist of Summer and Winter games. These games vary considerably and it would be interesting to analyze the Olympics by studying the similarities and differences between Summer and Winter events.
@@ -63,11 +63,11 @@ In either formats, female athletes only make up around 20% of Olympic teams. It 
 
 ![alt text][logo2]
 
-[logo2]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/representation2.JPG  "Representation2"
+[logo2]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/representation3.JPG  "Representation3"
 
-For Summer Olympics, it seems countries that have the highest proportion of female athletes are Bhutan, Belarus and North Korea. 
+For Winter Olympics, it seems countries that have the highest proportion of female athletes are North Korea, China and Uzbekistan. 
 
-If you look at the plot for Winter Olympics in the notebook, you can see that the countries faring well are North Korea, China and Uzbekistan. 
+If you look at the plot for Summer Olympics in the notebook, you can see that the countries faring well are Bhutan, Belarus and North Korea. 
 
 Again, these figures are slightly skewed either due to low participation or the small size of teams that these countries send. However, to be fair, I have only considered countries who have been a part of at least 5 Summer and 3 Winter Olympics. 
 Nevertheless, it is indeed surprising that a lot of countries with very high social indicators do not fare well when it comes to gender parity in Olympic teams. 
