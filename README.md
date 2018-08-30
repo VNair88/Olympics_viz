@@ -2,7 +2,7 @@
 ### Analysis of the Olympics by comparing and contrasting Summer and Winter games.
 
 To view the interactive plots you can check the python notebook at - 
-[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Olympics_viz/blob/efd879acbc78f53de18a41839ed7d38297495c8c/py%20Notebook/final.ipynb)
+[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Visualizing-the-Olympics/blob/dc4af510071207f76510cc4136407fc31172579a/py%20Notebook/final.ipynb)
 
 ## Summary
 As most of us know the Olympics consist of Summer and Winter games. These games vary considerably and it would be interesting to analyze the Olympics by studying the similarities and differences between Summer and Winter events.
@@ -26,7 +26,7 @@ The first Olympic games were held in 1896, more than a 100 years ago. Since then
 
 ![alt text][logo]
 
-[logo]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/summer_participation.JPG  "Summer participation"
+[logo]: https://github.com/VNair88/Visualizing-the-Olympics/blob/master/Plots/summer_participation.JPG  "Summer participation"
 
 A few highlights from the plot (these can be referenced by hovering the mouse pointer over individual bars):
 1896 - First Summer Olympics had 12 participating teams.
@@ -48,7 +48,7 @@ Here I look at the top 10 performing countries in Summer and Winter games.  The 
 
 ![alt text][logo1]
 
-[logo1]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/summer_performers.JPG  "Summer performers"
+[logo1]: https://github.com/VNair88/Visualizing-the-Olympics/blob/master/Plots/summer_performers.JPG  "Summer performers"
 
 The United States is a clear winner when it comes to total medals won. Over all the Olympic events that it has been a part of, the US has accumulated over 2000 medals. The second entry on this list doesn’t have even half the number of medals that the US has. 
 However, this is just half the story. If you look at average medals won per year, the Soviets come out on top averaging more than 100 medals per year.
@@ -63,7 +63,7 @@ In either formats, female athletes only make up around 20% of Olympic teams. It 
 
 ![alt text][logo2]
 
-[logo2]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/representation3.JPG  "Representation3"
+[logo2]: https://github.com/VNair88/Visualizing-the-Olympics/blob/master/Plots/representation3.JPG  "Representation3"
 
 For Winter Olympics, it seems countries that have the highest proportion of female athletes are North Korea, China and Uzbekistan. 
 
@@ -78,6 +78,6 @@ Here we look at some pysical attributes of Olympic athletes like height and weig
 
 ![alt text][logo3]
 
-[logo3]: https://github.com/VNair88/Olympics_viz/blob/master/Plots/avg_height_weight.JPG  "HeightWeight"
+[logo3]: https://github.com/VNair88/Visualizing-the-Olympics/blob/master/Plots/avg_height_weight.JPG  "HeightWeight"
 
 As you can see in the plot, athletes who play certain sports like Basketball, Volleyball, Bobsleighing and Ice Hockey tend to be bigger in size than the rest. On the other hand Gymnasts, Synchronized swimmers and Figure skaters tend to be shorter and lighter. Plus, athletes from Summer Olympics definitely have a longer range as far as height and weight are considered.
