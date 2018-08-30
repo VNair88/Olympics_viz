@@ -8,7 +8,7 @@ To view the interactive plots you can check the python notebook at -
 As most of us know the Olympics consist of Summer and Winter games. These games vary considerably and it would be interesting to analyze the Olympics by studying the similarities and differences between Summer and Winter events.
 
 ## Getting Started
-The repository contains a folder called ‘py Notebook’ which contains a Jupyter notebook titled final.ipynb which contains the analysis and visualizations. The datasets used are saved under the datasets folder.
+The repository contains a folder called ‘py Notebook’ which contains a Jupyter notebook titled final.ipynb which contains the analysis and visualizations. The datasets used are saved under the datasets folder. One of the datasets used 'athlete_events', exceeded 25 MB and therefore could not be uploaded as a csv file. I have compressed it and have uploaded the '.rar' file instead.
 
 ### Tech Stack
 The following packages are used for the analysis and visualizations:
