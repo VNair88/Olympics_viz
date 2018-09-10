@@ -2,7 +2,7 @@
 ### Analysis of the Olympics by comparing and contrasting Summer and Winter games.
 
 To view the interactive plots you can check the python notebook at - 
-[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Visualizing-the-Olympics/blob/dc4af510071207f76510cc4136407fc31172579a/py%20Notebook/final.ipynb)
+[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Visualizing-the-Olympics/blob/530e0bde8b43862a55826913cd962e9c9a04af16/py%20Notebook/final.ipynb)
 
 ## Summary
 As most of us know the Olympics consist of Summer and Winter games. These games vary considerably and it would be interesting to analyze the Olympics by studying the similarities and differences between Summer and Winter events.
